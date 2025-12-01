@@ -1,13 +1,16 @@
+# ----------------------------- OptimAIzer -----------------------------
+
+
 # 🧠 Problem Statement
 
 Working on a computer can sometimes become stressful and overwhelming, as modern computers, though advanced, generate thousands of data points every second from CPU load, memory consumption, and more. Many user (technical and non-technical) may not understand these metrics or have the time to constantly troubleshoot what is slowing their computer down.
 
-optimAIzer addresses this challenge by using AI Agents to turn raw system data into an intelligent, human-friendly dashboard, providing actionable recommendations or automated fixed based on your own system's needs.
+OptimAIzer addresses this challenge by using AI Agents to turn raw system data into an intelligent, human-friendly dashboard, providing actionable recommendations or automated fixed based on your own system's needs.
 
 
 # 💡 Solution Overview
 
-optimAIzer is an AI-powered system monitoring and optimizing agent that:
+OptimAIzer is an AI-powered system monitoring and optimizing agent that:
 - Collects system metrics via Python
 - Processes and evaluates system health in real-time
 - Generates a clean, readable report
