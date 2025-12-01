@@ -1,0 +1,11 @@
+# .gitignore
+.env
+report.json
+optimaizer_history.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.DS_Store
