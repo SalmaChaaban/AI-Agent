@@ -80,3 +80,8 @@ While functional, this project has room for improvement, which may include:
 5. Add your GOOGLE_API_KEY to the .env file
 
 6. Run the notebook (either cell by cell or all at once)
+
+
+# Output Report Preview
+
+![Output Report Preview](output_report.png)
